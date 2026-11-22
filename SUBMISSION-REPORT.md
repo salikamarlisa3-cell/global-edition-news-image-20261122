@@ -4,7 +4,9 @@
 
 - **Competition:** news-image-20261122 — "Sum up 22 November's world news in one image"
 - **Repo:** https://github.com/salikamarlisa3-cell/global-edition-news-image-20261122
-- **Commit:** `4a591d75be7ba6df48d533f9f27d499d510c259b`
+- **Commit:** `4a591d75be7ba6df48d533f9f27d499d510c259b` (entry commit; HEAD
+  `bd8f3bc1f9e30b69e4425432c2954221469b2dbf` after a cleanup commit removing
+  `__pycache__`)
 - **Entry:** `entry.png`, exactly 1024×1024, deterministic (two runs byte-identical,
   sha256 `e13dcd479a8a8a569c59d2e90422db18387be6d3ce264797ad3d6e6aaca1b8bb`,
   182,599 bytes)
